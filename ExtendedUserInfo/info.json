@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Chatterino/chatterino2/master/docs/plugin-info.schema.json",
+  "name": "ExtendedUserInfo",
+  "description": "Brings back the commands to get info about users",
+  "authors": [
+    "etenie"
+  ],
+  "homepage": "",
+  "tags": [
+    "utility",
+    "user",
+    "info"
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "permissions": [
+    {
+      "type": "Network"
+    }
+  ]
+}
